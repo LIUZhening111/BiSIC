@@ -17,7 +17,7 @@ design a novel cross-dimensional entropy model that integrates various condition
 <!-- ![Model architecture](assets/pipeline.png) -->
 
 ## :sparkles:Performance Illustration
-We illustrate the R-D performances  of our method. For more details, please check the official paper.
+We illustrate the R-D performances and qualitative visualization of our method. For more details, please check the official paper.
 <p align="center">
   <img src="assets/RD.png" alt="R-D performance on InStereo2K dataset">
 </p>
