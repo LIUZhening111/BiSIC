@@ -4,7 +4,7 @@ This is the official PyTorch implementation of our **ECCV 2024** paper:
 
 **Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model**
 
-[Zhening Liu](https://liuzhening.top), [Xinjie Zhang](https://xinjie-q.github.io/), [Jiawei Shao](https://shaojiawei07.github.io/), [Zehong Lin](https://zhlinup.github.io/), [Jun Zhang](https://eejzhang.people.ust.hk/)
+[Zhening Liu](https://www.liuzhening.top), [Xinjie Zhang](https://xinjie-q.github.io/), [Jiawei Shao](https://shaojiawei07.github.io/), [Zehong Lin](https://zhlinup.github.io/), [Jun Zhang](https://eejzhang.people.ust.hk/)
 
 [[ArXiv Preprint](https://arxiv.org/abs/2407.10632)]
 
