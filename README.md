@@ -42,10 +42,12 @@ We would like to appreciate the following fantastic open-source works contributi
 If any parts of our paper and code help your research, please consider citing us and giving a star to our repository.
 
 ```
-@article{liu2024bidirectional,
-  title={Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model},
+@inproceedings{liu2025bidirectional,
+  title={Bidirectional stereo image compression with cross-dimensional entropy model},
   author={Liu, Zhening and Zhang, Xinjie and Shao, Jiawei and Lin, Zehong and Zhang, Jun},
-  journal={arXiv preprint arXiv:2407.10632},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={480--496},
+  year={2025},
+  organization={Springer}
 }
 ```
